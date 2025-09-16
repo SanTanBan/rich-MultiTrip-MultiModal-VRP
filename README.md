@@ -1,5 +1,7 @@
 ## rich-MultiTrip-MultiModal-VRP
 
+If you are here from the arxiv link, check back in 36 hours...
+
 ### Some Problem Features:
 1. Minimization of the Maximum Vehicle's Route Duration is considered
 2. Multiple diverse types of functional vertices enrich the problem further
