@@ -1,6 +1,6 @@
 ## rich-MultiTrip-MultiModal-VRP
 
-If you are here from the arXiv link, check back in 36 hours...
+Check back by end of this week...
 
 ### Some Problem Features:
 1. Minimization of the Maximum Vehicle's Route Duration is considered
