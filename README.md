@@ -1,6 +1,6 @@
 ## rich-MultiTrip-MultiModal-VRP
 
-### Some Problem Features:
+### Prominent Problem Features:~
 - Minimization of the Maximum Vehicle's Route Duration is considered
 - Multiple diverse types of functional vertices enrich the problem further
 - For the first time, the synchronization of transhipment across multiple modes is considered
