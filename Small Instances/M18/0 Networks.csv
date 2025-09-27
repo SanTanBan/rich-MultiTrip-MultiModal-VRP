@@ -1,0 +1,4 @@
+Network Name,Description,p-value for distance generation on this Network,Remarks/Comments
+Air,Air Network,2,
+Road,Road network,1.4,
+Rail,Rail Network,1.7,

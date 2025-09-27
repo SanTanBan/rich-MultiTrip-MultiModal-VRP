@@ -1,0 +1,4 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Remarks/Comments,Average Speed of Vehicle,StartingTime from Depot
+VT1,Train (Goods),70000,6000,Rail,0,,0.3,0
+VT2,Helicopter,700,800,Air,1,,0.8,0
+VT3,NDRF Bus,7000,7500,Road,1,,0.15,0
