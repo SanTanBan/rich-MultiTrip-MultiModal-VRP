@@ -1,0 +1,12 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments
+VT1,Train ,120000,1500,Rail_A,0,0.35,Assuming 10 Compartments are available with each Compartment being 3 times that of an NDRF Bus
+VT2,Helicopter (or Drone),1000,20,Air_A,0,0.7,
+VT3,Speed/Intercepter Boats,4000,15,Water_A,1,0.085,The AC could be almost static at TP6; and it itself has the VD5 hosted with rescue speed boats. It will send boats for a recuse mission in the Andamans. The Boats return to the AC after the operation.
+VT4A,NDRF Bus,4000,50,Road_A,1,0.17,
+VT4B,NDRF Bus,4000,50,Road_B,1,0.17,
+VT4C,NDRF Bus,4000,50,Road_C,1,0.17,
+VT5A,Chota Haati TATA,800,10,Road_A,0,0.165,
+VT5B,Chota Haati TATA,800,10,Road_B,0,0.165,
+VT5C,Chota Haati TATA,800,10,Road_C,0,0.165,
+VT6A,Truck,10000,125,Road_A,0,0.175,
+VT6B,Truck,10000,125,Road_B,0,0.175,

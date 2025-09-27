@@ -1,0 +1,86 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT1,VT2,VT3,VT4A,VT4B,VT4C,VT5A,VT5B,VT5C,VT6A,VT6B,CC1P,CC2P,CC1D,CC2D,CC3D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Rail_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Water_A,Multimodal Compatibility for Network_Road_C
+Vehicle Depot,VD1,Vehicle Depot VD1,82.863772,17.944908,"Chidikaka, AP",0,0,0,1,0,0,3,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0
+Vehicle Depot,VD2,Vehicle Depot VD2,87.076128,22.062448,"Jhargram, WB",0,0,0,1,0,0,2,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0
+Vehicle Depot,VD3,Vehicle Depot VD3,88.333408,22.589619,Howrah Goods Cabin,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,83.226834,17.727395,Vizag Airport Cargo Terminal Hangar,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+Vehicle Depot,VD5,Vehicle Depot VD5,90.876999,12.385999,Aircraft Carrier's Intercepter Speed Boats,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Vehicle Depot,VD6,Vehicle Depot VD6,92.783444,24.828169,"Ambikapatty, Silchar, Assam",0,0,0,0,2,0,0,3,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+Vehicle Depot,VD7,Vehicle Depot VD7,92.656475,11.642095,"Chouldari, ANaN Islands",0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+WareHouse,WH1,WareHouse WH1,86.564236,22.446048,"East Singhbhum, Jharkhand",0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,90,1,0,0,0,0,0
+WareHouse,WH3,WareHouse WH3,82.114773,18.973287,"Jagdalpura, Chattishgarh",0,0,0,0,0,0,0,0,0,0,0,0,0,100,80,100,1,0,0,0,0,0
+WareHouse,WH5,WareHouse WH5,83.971463,18.494692,"Srikakulam, AP",0,0,0,0,0,0,0,0,0,0,0,0,0,100,60,110,1,0,0,0,0,0
+WareHouse,WH7,WareHouse WH7,93.727322,26.376591,"Bokajan, Assam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,1,0,0,0
+Transhipment Port,TP1,Transhipment Port TP1,88.343097,22.585201,Howrah Station,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+Transhipment Port,TP2,Transhipment Port TP2,85.708754,20.154143,Orissa Khurda Road Junction Railway Station,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+Transhipment Port,TP3,Transhipment Port TP3,91.751245,26.182391,Guwahati Station,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0
+Transhipment Port,TP4,Transhipment Port TP4,91.278478,23.792955,Tripura Station,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0
+Transhipment Port,TP5,Transhipment Port TP5,83.132897,17.431608,Vizag AirPort,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0
+Transhipment Port,TP6,Transhipment Port TP6,90.876001,12.385001,Aircraft Carrier in the middle of Bay of Bengal,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0
+Transhipment Port,TP7,Transhipment Port TP7,92.872829,12.879537,"Mayabunder, ANaN Islands",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1
+Transhipment Port,TP8,Transhipment Port TP8,92.783778,12.315708,"Rangat, ANaN Islands",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1
+Transhipment Port,TP9,Transhipment Port TP9,92.600631,11.700114,"Ferrargunj, ANaN Islands",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1
+Transhipment Port,TP10,Transhipment Port TP10,92.615228,11.588196,"Wandoor, ANaN Islands",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1
+Relief Centre,RC1,Relief Centre RC1,86.443718,22.955129,"Patamda, Jharkhand",0,0,0,0,0,0,0,0,0,0,0,70,100,0,0,0,1,0,0,0,0,0
+Relief Centre,RC3,Relief Centre RC3,82.475041,17.843797,"Chintapalli, AP",0,0,0,0,0,0,0,0,0,0,0,70,100,0,0,0,1,0,0,0,0,0
+Relief Centre,RC4,Relief Centre RC4,92.926158,25.583233,"Dina Hasao, Assam",0,0,0,0,0,0,0,0,0,0,0,30,60,0,0,0,0,0,1,0,0,0
+Relief Centre,RC5,Relief Centre RC5,93.832471,12.611839,Middle ANaN Islands,0,0,0,0,0,0,0,0,0,0,0,20,50,0,0,0,0,0,0,0,0,1
+Simultaneous Node,NM11,Simultaneous Node NM11,86.734371,22.133737,"Koliana, Odisha",0,0,0,0,0,0,0,0,0,0,0,3,4,9,5,8,1,0,0,0,0,0
+Simultaneous Node,NM12,Simultaneous Node NM12,86.68811489,22.019785,,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,9,1,0,0,0,0,0
+Simultaneous Node,NM13,Simultaneous Node NM13,86.64185878,21.905833,,0,0,0,0,0,0,0,0,0,0,0,0,0,8,9,0,1,0,0,0,0,0
+Simultaneous Node,NM14,Simultaneous Node NM14,86.59560267,21.791881,,0,0,0,0,0,0,0,0,0,0,0,9,2,8,5,1,1,0,0,0,0,0
+Simultaneous Node,NM15,Simultaneous Node NM15,86.54934656,21.677929,,0,0,0,0,0,0,0,0,0,0,0,1,4,7,0,0,1,0,0,0,0,0
+Simultaneous Node,NM16,Simultaneous Node NM16,86.50309044,21.563977,,0,0,0,0,0,0,0,0,0,0,0,2,3,6,7,0,1,0,0,0,0,0
+Simultaneous Node,NM17,Simultaneous Node NM17,86.45683433,21.450025,,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,9,1,0,0,0,0,0
+Simultaneous Node,NM18,Simultaneous Node NM18,86.41057822,21.336073,,0,0,0,0,0,0,0,0,0,0,0,10,10,5,9,1,1,0,0,0,0,0
+Simultaneous Node,NM19,Simultaneous Node NM19,86.36432211,21.222121,,0,0,0,0,0,0,0,0,0,0,0,5,8,9,0,3,1,0,0,0,0,0
+Simultaneous Node,NM20,Simultaneous Node NM20,86.318066,21.108169,"Banta, Odisha",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,1,0,0,0,0,0
+Simultaneous Node,NM21,Simultaneous Node NM21,86.768429,20.974987,"Tihirhi, Odisha",0,0,0,0,0,0,0,0,0,0,0,7,5,2,2,8,1,0,0,0,0,0
+Simultaneous Node,NM22,Simultaneous Node NM22,86.75371978,21.78755656,,0,0,0,0,0,0,0,0,0,0,0,6,7,2,9,2,1,0,0,0,0,0
+Simultaneous Node,NM23,Simultaneous Node NM23,86.73901056,22.60012611,,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,9,1,0,0,0,0,0
+Simultaneous Node,NM24,Simultaneous Node NM24,86.72430133,23.41269567,,0,0,0,0,0,0,0,0,0,0,0,2,9,6,0,7,1,0,0,0,0,0
+Simultaneous Node,NM25,Simultaneous Node NM25,86.70959211,24.22526522,,0,0,0,0,0,0,0,0,0,0,0,6,3,0,8,7,1,0,0,0,0,0
+Simultaneous Node,NM26,Simultaneous Node NM26,86.69488289,25.03783478,,0,0,0,0,0,0,0,0,0,0,0,10,8,1,7,2,1,0,0,0,0,0
+Simultaneous Node,NM27,Simultaneous Node NM27,86.68017367,25.85040433,,0,0,0,0,0,0,0,0,0,0,0,5,0,8,4,1,1,0,0,0,0,0
+Simultaneous Node,NM28,Simultaneous Node NM28,86.66546444,26.66297389,,0,0,0,0,0,0,0,0,0,0,0,3,0,0,9,0,1,0,0,0,0,0
+Simultaneous Node,NM29,Simultaneous Node NM29,86.65075522,27.47554344,,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,1,1,0,0,0,0,0
+Simultaneous Node,NM30,Simultaneous Node NM30,86.636046,28.288113,"Paradeep, Odisha",0,0,0,0,0,0,0,0,0,0,0,5,7,3,7,5,1,0,0,0,0,0
+Simultaneous Node,NM51,Simultaneous Node NM51,94.132596,24.983926,"Saikul, Manipur",0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,10,0,0,1,0,0,0
+Simultaneous Node,NM52,Simultaneous Node NM52,94.094449,24.92710211,,0,0,0,0,0,0,0,0,0,0,0,2,8,6,4,8,0,0,1,0,0,0
+Simultaneous Node,NM53,Simultaneous Node NM53,94.056302,24.87027822,,0,0,0,0,0,0,0,0,0,0,0,1,9,1,0,6,0,0,1,0,0,0
+Simultaneous Node,NM54,Simultaneous Node NM54,94.018155,24.81345433,,0,0,0,0,0,0,0,0,0,0,0,0,5,0,8,10,0,0,1,0,0,0
+Simultaneous Node,NM55,Simultaneous Node NM55,93.980008,24.75663044,,0,0,0,0,0,0,0,0,0,0,0,7,3,5,9,0,0,0,1,0,0,0
+Simultaneous Node,NM56,Simultaneous Node NM56,93.941861,24.69980656,,0,0,0,0,0,0,0,0,0,0,0,0,5,1,7,3,0,0,1,0,0,0
+Simultaneous Node,NM57,Simultaneous Node NM57,93.903714,24.64298267,,0,0,0,0,0,0,0,0,0,0,0,1,9,7,7,5,0,0,1,0,0,0
+Simultaneous Node,NM58,Simultaneous Node NM58,93.865567,24.58615878,,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,1,0,0,0
+Simultaneous Node,NM59,Simultaneous Node NM59,93.82742,24.52933489,,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,6,0,0,1,0,0,0
+Simultaneous Node,NM60,Simultaneous Node NM60,93.789273,24.472511,"Moirang, Manipur",0,0,0,0,0,0,0,0,0,0,0,8,10,5,3,1,0,0,1,0,0,0
+Split Node,NP1,Split Node NP1,82.916894,18.248886,"Araku Valley, AP",0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,0,1,0,0,0,0,0
+Split Node,NP2,Split Node NP2,82.98260944,18.31330233,,0,0,0,0,0,0,0,0,0,0,0,5,5,7,0,9,1,0,0,0,0,0
+Split Node,NP3,Split Node NP3,83.04832489,18.37771867,,0,0,0,0,0,0,0,0,0,0,0,0,8,0,4,9,1,0,0,0,0,0
+Split Node,NP4,Split Node NP4,83.11404033,18.442135,,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,9,1,0,0,0,0,0
+Split Node,NP5,Split Node NP5,83.17975578,18.50655133,,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,8,1,0,0,0,0,0
+Split Node,NP6,Split Node NP6,83.24547122,18.57096767,,0,0,0,0,0,0,0,0,0,0,0,2,9,2,0,1,1,0,0,0,0,0
+Split Node,NP7,Split Node NP7,83.31118667,18.635384,,0,0,0,0,0,0,0,0,0,0,0,8,1,8,9,7,1,0,0,0,0,0
+Split Node,NP8,Split Node NP8,83.37690211,18.69980033,,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,7,1,0,0,0,0,0
+Split Node,NP9,Split Node NP9,83.44261756,18.76421667,,0,0,0,0,0,0,0,0,0,0,0,6,3,5,9,9,1,0,0,0,0,0
+Split Node,NP10,Split Node NP10,83.508333,18.828633,"Duggi, AP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0
+Split Node,NP11,Split Node NP11,86.532209,21.515254,"Kaptipada, Odisha",0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,0,0,0,0,0
+Split Node,NP12,Split Node NP12,86.475409,21.44317967,,0,0,0,0,0,0,0,0,0,0,0,0,5,1,10,4,1,0,0,0,0,0
+Split Node,NP13,Split Node NP13,86.418609,21.37110533,,0,0,0,0,0,0,0,0,0,0,0,8,10,8,6,4,1,0,0,0,0,0
+Split Node,NP14,Split Node NP14,86.361809,21.299031,,0,0,0,0,0,0,0,0,0,0,0,8,2,9,5,4,1,0,0,0,0,0
+Split Node,NP15,Split Node NP15,86.305009,21.22695667,,0,0,0,0,0,0,0,0,0,0,0,0,3,10,7,7,1,0,0,0,0,0
+Split Node,NP16,Split Node NP16,86.248209,21.15488233,,0,0,0,0,0,0,0,0,0,0,0,1,3,0,5,5,1,0,0,0,0,0
+Split Node,NP17,Split Node NP17,86.191409,21.082808,,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,9,1,0,0,0,0,0
+Split Node,NP18,Split Node NP18,86.134609,21.01073367,,0,0,0,0,0,0,0,0,0,0,0,8,4,5,0,6,1,0,0,0,0,0
+Split Node,NP19,Split Node NP19,86.077809,20.93865933,,0,0,0,0,0,0,0,0,0,0,0,8,5,1,7,0,1,0,0,0,0,0
+Split Node,NP20,Split Node NP20,86.021009,20.866585,"Dharmasala, Odisha",0,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,1,0,0,0,0,0
+Split Node,NP41,Split Node NP41,92.991482,13.510691,North Andaman,0,0,0,0,0,0,0,0,0,0,0,4,7,5,1,2,0,0,0,0,0,1
+Split Node,NP42,Split Node NP42,92.951315,13.30104144,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,9,0,0,0,0,0,1
+Split Node,NP43,Split Node NP43,92.911148,13.09139189,,0,0,0,0,0,0,0,0,0,0,0,0,4,1,10,8,0,0,0,0,0,1
+Split Node,NP44,Split Node NP44,92.870981,12.88174233,,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,9,0,0,0,0,0,1
+Split Node,NP45,Split Node NP45,92.830814,12.67209278,,0,0,0,0,0,0,0,0,0,0,0,1,4,3,9,0,0,0,0,0,0,1
+Split Node,NP46,Split Node NP46,92.790647,12.46244322,,0,0,0,0,0,0,0,0,0,0,0,2,4,1,6,9,0,0,0,0,0,1
+Split Node,NP47,Split Node NP47,92.75048,12.25279367,,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,10,0,0,0,0,0,1
+Split Node,NP48,Split Node NP48,92.710313,12.04314411,,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,10,0,0,0,0,0,1
+Split Node,NP49,Split Node NP49,92.670146,11.83349456,,0,0,0,0,0,0,0,0,0,0,0,3,8,0,0,3,0,0,0,0,0,1
+Split Node,NP50,Split Node NP50,92.629979,11.623845,South Andaman,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,1
