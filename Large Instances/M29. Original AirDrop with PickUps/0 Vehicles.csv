@@ -1,0 +1,4 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Remarks/Comments,Average Speed of Vehicle
+VT1,Train (Goods),75000,60000,Rail,0,,0.3
+VT2,eVTOL Drone,515,650,Air,1,,0.7
+VT3,NDRF Bus,7000,5500,Road,1,,0.175
