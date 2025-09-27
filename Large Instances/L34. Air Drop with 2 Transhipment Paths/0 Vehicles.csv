@@ -1,0 +1,12 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments
+VT1A,Train (Goods),100000,3000,Rail_A,0,0.35,
+VT1B,Train (Goods),100000,3000,Rail_B,0,0.35,
+VT2,Helicopter (or Drone),500,200,Air_A,1,0.75,
+VT3A,NDRF Bus,5000,100,Road_A,1,0.1775,
+VT4A,Maruti Chota Haati,2250,50,Road_A,1,0.1725,
+VT3B,NDRF Bus,5000,100,Road_B,1,0.1775,
+VT4B,Maruti Chota Haati,2250,50,Road_B,1,0.1725,
+VT3C,NDRF Bus,5000,100,Road_C,1,0.1775,
+VT4C,Maruti Chota Haati,2250,50,Road_C,1,0.1725,
+VT3D,NDRF Bus,5000,100,Road_D,1,0.1775,
+VT4D,Maruti Chota Haati,2250,50,Road_D,1,0.1725,

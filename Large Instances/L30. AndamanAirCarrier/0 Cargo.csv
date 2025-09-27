@@ -1,0 +1,7 @@
+Pickup / Delivery,Types,Description,Unit Weight,Unit Volume,Remarks/Comments
+Pickup,CC1P,1 Human,95,2,
+Pickup,CC2P,1 Livestock,475,4,
+Delivery,CC1D,Food Packets (100 pieces = 1 unit),60,0.3,
+Delivery,CC2D,Plastic Sheets and Clothes (100 items = 1 unit),30,0.35,
+Delivery,CC3D,Medicine (100 packets = 1 unit),10,0.1,
+Delivery,CC4D,Water (75 bottles = 1 unit),75,0.15,

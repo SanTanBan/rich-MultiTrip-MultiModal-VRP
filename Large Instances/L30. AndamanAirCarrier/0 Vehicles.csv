@@ -1,0 +1,9 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments
+VT2,Helicopter (or Drone),1000,20,Air_A,0,0.75,
+VT3,Intercepter Float,4500,18,Water_A,0,0.08,The AC could be almost static at TP6; and it itself has the VD5 hosted with rescue speed boats. It will send boats for a recuse mission in the Andamans. The Boats return to the AC after the operation.
+VT4A,NDRF Bus,4000,50,Road_A,1,0.17,
+VT4C,NDRF Bus,4000,50,Road_C,1,0.175,Speeds may also vary based on condition of roads in the different MMTS
+VT5A,Chota Haati TATA,800,10,Road_A,0,0.17,
+VT5C,Chota Haati TATA,800,10,Road_C,0,0.175,Speeds may also vary based on condition of roads in the different MMTS
+VT6A,Truck,10000,125,Road_A,0,0.175,
+VT7,Speed Boat,3500,12,Water_A,1,0.09,The AC could be almost static at TP6; and it itself has the VD5 hosted with rescue speed boats. It will send boats for a recuse mission in the Andamans. The Boats return to the AC after the operation.

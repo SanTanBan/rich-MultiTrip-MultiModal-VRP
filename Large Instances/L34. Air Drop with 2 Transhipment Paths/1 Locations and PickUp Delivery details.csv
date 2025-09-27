@@ -1,0 +1,38 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT1A,VT1B,VT2,VT3A,VT4A,VT3B,VT4B,VT3C,VT4C,VT3D,VT4D,CC1P,CC2P,CC1D,CC2D,CC3D,CC4D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Rail_A,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Rail_B,Multimodal Compatibility for Network_Road_C,Multimodal Compatibility for Network_Road_D
+Vehicle Depot,VD1,Vehicle Depot VD1,10,10,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Vehicle Depot,VD2,Vehicle Depot VD2,20,20,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Vehicle Depot,VD3,Vehicle Depot VD3,30,95,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,52.5,72.5,,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Vehicle Depot,VD5,Vehicle Depot VD5,50,50,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Vehicle Depot,VD6,Vehicle Depot VD6,95,65,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Vehicle Depot,VD7,Vehicle Depot VD7,85,17.5,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+WareHouse,WH1,WareHouse WH1,0,2.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,50,100,1,0,0,0,0,0,0
+WareHouse,WH2,WareHouse WH2,50,62.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,20,15,25,0,0,0,0,1,0,0,0
+WareHouse,WH3,WareHouse WH3,50,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,40,100,0,0,0,0,0,1,0
+WareHouse,WH4,WareHouse WH4,85,5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,100,0,0,0,0,0,0,1
+Simultaneous Node,NM1,Simultaneous Node NM1,4,13,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0,1,0,0,0,0,0,0
+Simultaneous Node,NM2,Simultaneous Node NM2,35,70,,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,1,1,0,0,1,0,0,0,0
+Simultaneous Node,NM3,Simultaneous Node NM3,34,71,,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,1,0,0,1,0,0,0,0
+Simultaneous Node,NM4,Simultaneous Node NM4,33,72,,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,1,0,0,0,0
+Simultaneous Node,NM5,Simultaneous Node NM5,44,68,,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,6,0,0,0,1,0,0,0
+Simultaneous Node,NM6,Simultaneous Node NM6,60,72,,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,4,0,0,0,1,0,0,0
+Simultaneous Node,NM7,Simultaneous Node NM7,54,20,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,1,0
+Simultaneous Node,NM8,Simultaneous Node NM8,100,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1
+Transhipment Port,TP1,Transhipment Port TP1,10,20,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+Transhipment Port,TP2,Transhipment Port TP2,25,57.5,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0,0,0
+Transhipment Port,TP3,Transhipment Port TP3,40,72.5,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,0,0
+Transhipment Port,TP4,Transhipment Port TP4,67.5,67.5,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,1,0,0
+Transhipment Port,TP5,Transhipment Port TP5,67.5,47.5,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0
+Transhipment Port,TP6,Transhipment Port TP6,90,45,,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,1
+Split Node,NP1,Split Node NP1,6,17,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,14,0,1,0,0,0,0,0,0
+Split Node,NP2,Split Node NP2,32,73,,0,0,0,0,0,0,0,0,0,0,0,7,0,11,0,13,0,0,0,1,0,0,0,0
+Split Node,NP3,Split Node NP3,31,74,,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,1,0,0,0,0
+Split Node,NP4,Split Node NP4,30,75,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,17,0,0,1,0,0,0,0
+Split Node,NP5,Split Node NP5,46,67,,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,12,14,0,0,0,1,0,0,0
+Split Node,NP6,Split Node NP6,55,73,,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,13,16,0,0,0,1,0,0,0
+Split Node,NP7,Split Node NP7,51,15,,0,0,0,0,0,0,0,0,0,0,0,0,19,0,4,5,0,0,0,0,0,0,1,0
+Split Node,NP8,Split Node NP8,98,2,,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,5,0,0,0,0,0,0,0,1
+Relief Centre,RC1,Relief Centre RC1,0,10,,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,1,0,0,0,0,0,0
+Relief Centre,RC2,Relief Centre RC2,45,67.5,,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,1,0,0,0
+Relief Centre,RC3,Relief Centre RC3,67.5,7.5,,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,1,0
+Relief Centre,RC4,Relief Centre RC4,97.5,12.5,,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,1

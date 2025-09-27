@@ -1,0 +1,57 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT2,VT3,VT4A,VT4C,VT5A,VT5C,VT6A,VT7,CC1P,CC2P,CC1D,CC2D,CC3D,CC4D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Water_A,Multimodal Compatibility for Network_Road_C
+Vehicle Depot,VD1,Vehicle Depot VD1,82.863772,17.944908,"Chidikaka, AP",0,0,1,0,3,0,2,0,0,0,0,0,0,0,1,0,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,83.226834,17.727395,Vizag Airport Cargo Terminal Hangar,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0
+Vehicle Depot,VD5,Vehicle Depot VD5,90.876999,12.385999,Aircraft Carrier's Intercepter Speed Boats,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0
+Vehicle Depot,VD7,Vehicle Depot VD7,92.656475,11.642095,"Chouldari, ANaN Islands",0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,1
+WareHouse,WH2,WareHouse WH2,84.092312,20.750439,"Boudh, Orissa",0,0,0,0,0,0,0,0,0,0,100,90,70,80,1,0,0,0
+WareHouse,WH3,WareHouse WH3,82.114773,18.973287,"Jagdalpura, Chattishgarh",0,0,0,0,0,0,0,0,0,0,100,80,80,80,1,0,0,0
+WareHouse,WH5,WareHouse WH5,83.971463,18.494692,"Srikakulam, AP",0,0,0,0,0,0,0,0,0,0,100,60,100,80,1,0,0,0
+Transhipment Port,TP5,Transhipment Port TP5,83.132897,17.431608,Vizag AirPort,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+Transhipment Port,TP6,Transhipment Port TP6,90.876001,12.385001,Aircraft Carrier in the middle of Bay of Bengal,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
+Transhipment Port,TP7,Transhipment Port TP7,92.872829,12.879537,"Mayabunder, ANaN Islands",0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1
+Transhipment Port,TP8,Transhipment Port TP8,92.783778,12.315708,"Rangat, ANaN Islands",0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1
+Transhipment Port,TP9,Transhipment Port TP9,92.600631,11.700114,"Ferrargunj, ANaN Islands",0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1
+Transhipment Port,TP10,Transhipment Port TP10,92.615228,11.588196,"Wandoor, ANaN Islands",0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1
+Relief Centre,RC2,Relief Centre RC2,85.298115,20.701729,"Hindool, Orissa",0,0,0,0,0,0,0,0,100,100,0,0,0,0,1,0,0,0
+Relief Centre,RC3,Relief Centre RC3,82.475041,17.843797,"Chintapalli, AP",0,0,0,0,0,0,0,0,100,100,0,0,0,0,1,0,0,0
+Relief Centre,RC5,Relief Centre RC5,93.832471,12.611839,Middle ANaN Islands,0,0,0,0,0,0,0,0,50,50,0,0,0,0,0,0,0,1
+Simultaneous Node,NM1,Simultaneous Node NM1,83.274495,19.263942,"Rayagarha, Odisha",0,0,0,0,0,0,0,0,6,4,7,10,2,4,1,0,0,0
+Simultaneous Node,NM2,Simultaneous Node NM2,83.38561878,19.38547678,,0,0,0,0,0,0,0,0,0,4,4,0,9,7,1,0,0,0
+Simultaneous Node,NM3,Simultaneous Node NM3,83.49674256,19.50701156,,0,0,0,0,0,0,0,0,1,1,9,6,3,0,1,0,0,0
+Simultaneous Node,NM4,Simultaneous Node NM4,83.60786633,19.62854633,,0,0,0,0,0,0,0,0,3,0,1,9,7,7,1,0,0,0
+Simultaneous Node,NM5,Simultaneous Node NM5,83.71899011,19.75008111,,0,0,0,0,0,0,0,0,8,10,7,10,1,0,1,0,0,0
+Simultaneous Node,NM6,Simultaneous Node NM6,83.83011389,19.87161589,,0,0,0,0,0,0,0,0,3,0,0,10,4,10,1,0,0,0
+Simultaneous Node,NM7,Simultaneous Node NM7,83.94123767,19.99315067,,0,0,0,0,0,0,0,0,0,6,9,10,7,0,1,0,0,0
+Simultaneous Node,NM8,Simultaneous Node NM8,84.05236144,20.11468544,,0,0,0,0,0,0,0,0,0,0,1,0,6,9,1,0,0,0
+Simultaneous Node,NM9,Simultaneous Node NM9,84.16348522,20.23622022,,0,0,0,0,0,0,0,0,7,7,9,7,3,0,1,0,0,0
+Simultaneous Node,NM10,Simultaneous Node NM10,84.274609,20.357755,"Gumagarha, Odisha",0,0,0,0,0,0,0,0,4,4,9,0,0,10,1,0,0,0
+Simultaneous Node,NM31,Simultaneous Node NM31,85.160631,19.830463,"Banapur, Odisha",0,0,0,0,0,0,0,0,10,1,2,10,4,2,1,0,0,0
+Simultaneous Node,NM32,Simultaneous Node NM32,85.09124944,19.76970167,,0,0,0,0,0,0,0,0,4,7,2,4,0,9,1,0,0,0
+Simultaneous Node,NM33,Simultaneous Node NM33,85.02186789,19.70894033,,0,0,0,0,0,0,0,0,4,0,8,9,8,6,1,0,0,0
+Simultaneous Node,NM34,Simultaneous Node NM34,84.95248633,19.648179,,0,0,0,0,0,0,0,0,6,4,5,8,0,5,1,0,0,0
+Simultaneous Node,NM35,Simultaneous Node NM35,84.88310478,19.58741767,,0,0,0,0,0,0,0,0,9,3,3,9,5,2,1,0,0,0
+Simultaneous Node,NM36,Simultaneous Node NM36,84.81372322,19.52665633,,0,0,0,0,0,0,0,0,8,0,10,10,10,4,1,0,0,0
+Simultaneous Node,NM37,Simultaneous Node NM37,84.74434167,19.465895,,0,0,0,0,0,0,0,0,4,9,5,0,0,0,1,0,0,0
+Simultaneous Node,NM38,Simultaneous Node NM38,84.67496011,19.40513367,,0,0,0,0,0,0,0,0,1,9,8,0,4,0,1,0,0,0
+Simultaneous Node,NM39,Simultaneous Node NM39,84.60557856,19.34437233,,0,0,0,0,0,0,0,0,0,1,10,8,10,6,1,0,0,0
+Simultaneous Node,NM40,Simultaneous Node NM40,84.536197,19.283611,"Brahmapur, Odisha",0,0,0,0,0,0,0,0,6,0,3,3,6,10,1,0,0,0
+Split Node,NP1,Split Node NP1,82.916894,18.248886,"Araku Valley, AP",0,0,0,0,0,0,0,0,0,9,0,4,0,5,1,0,0,0
+Split Node,NP2,Split Node NP2,82.98260944,18.31330233,,0,0,0,0,0,0,0,0,5,5,7,0,9,4,1,0,0,0
+Split Node,NP3,Split Node NP3,83.04832489,18.37771867,,0,0,0,0,0,0,0,0,0,8,0,4,9,1,1,0,0,0
+Split Node,NP4,Split Node NP4,83.11404033,18.442135,,0,0,0,0,0,0,0,0,8,0,0,0,9,4,1,0,0,0
+Split Node,NP5,Split Node NP5,83.17975578,18.50655133,,0,0,0,0,0,0,0,0,0,2,6,0,8,3,1,0,0,0
+Split Node,NP6,Split Node NP6,83.24547122,18.57096767,,0,0,0,0,0,0,0,0,2,9,2,0,1,9,1,0,0,0
+Split Node,NP7,Split Node NP7,83.31118667,18.635384,,0,0,0,0,0,0,0,0,8,1,8,9,7,10,1,0,0,0
+Split Node,NP8,Split Node NP8,83.37690211,18.69980033,,0,0,0,0,0,0,0,0,0,1,3,8,7,0,1,0,0,0
+Split Node,NP9,Split Node NP9,83.44261756,18.76421667,,0,0,0,0,0,0,0,0,6,3,5,9,9,7,1,0,0,0
+Split Node,NP10,Split Node NP10,83.508333,18.828633,"Duggi, AP",0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,0,0,0
+Split Node,NP41,Split Node NP41,92.991482,13.510691,North Andaman,0,0,0,0,0,0,0,0,4,7,5,1,2,0,0,0,0,1
+Split Node,NP42,Split Node NP42,92.951315,13.30104144,,0,0,0,0,0,0,0,0,0,0,1,9,9,0,0,0,0,1
+Split Node,NP43,Split Node NP43,92.911148,13.09139189,,0,0,0,0,0,0,0,0,0,4,1,10,8,0,0,0,0,1
+Split Node,NP44,Split Node NP44,92.870981,12.88174233,,0,0,0,0,0,0,0,0,0,6,1,0,9,0,0,0,0,1
+Split Node,NP45,Split Node NP45,92.830814,12.67209278,,0,0,0,0,0,0,0,0,1,4,3,9,0,0,0,0,0,1
+Split Node,NP46,Split Node NP46,92.790647,12.46244322,,0,0,0,0,0,0,0,0,2,4,1,6,9,0,0,0,0,1
+Split Node,NP47,Split Node NP47,92.75048,12.25279367,,0,0,0,0,0,0,0,0,5,2,1,0,10,0,0,0,0,1
+Split Node,NP48,Split Node NP48,92.710313,12.04314411,,0,0,0,0,0,0,0,0,0,6,0,0,10,0,0,0,0,1
+Split Node,NP49,Split Node NP49,92.670146,11.83349456,,0,0,0,0,0,0,0,0,3,8,0,0,3,0,0,0,0,1
+Split Node,NP50,Split Node NP50,92.629979,11.623845,South Andaman,0,0,0,0,0,0,0,0,0,0,2,3,5,0,0,0,0,1

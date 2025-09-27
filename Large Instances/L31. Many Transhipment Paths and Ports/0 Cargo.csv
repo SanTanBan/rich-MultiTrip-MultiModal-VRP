@@ -1,0 +1,6 @@
+Pickup / Delivery,Types,Description,Unit Weight,Unit Volume,Remarks/Comments
+Pickup,CC1P,Humans,85,0.75,
+Pickup,CC2P,Livestock,400,3,
+Delivery,CC1D,Food Packets,70,1.4,
+Delivery,CC2D,Plastic Sheets + Clothes,30,3,
+Delivery,CC3D,Medicine + Water,12.5,0.5,

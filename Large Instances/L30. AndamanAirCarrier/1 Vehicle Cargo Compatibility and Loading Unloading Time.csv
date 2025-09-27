@@ -1,0 +1,9 @@
+Vehicle Type,Remarks/Comments,CC1P,CC2P,CC1D,CC2D,CC3D,CC4D
+VT2,Helicopter (or Drone),0.03,-1,0.05,0.02,0.01,-1
+VT3,Intercepter Float,0.02,-1,0.06,0.02,0.01,0.02
+VT4A,NDRF Bus,0.01,-1,-1,0.1,0,0.02
+VT4C,NDRF Bus,0.01,-1,-1,0.1,0,0.02
+VT5A,Chota Haati TATA,0.02,0.2,0.02,0.01,0,0.02
+VT5C,Chota Haati TATA,0.02,0.2,0.02,0.01,0,0.02
+VT6A,Truck,0.02,0.2,0.03,0.01,0,0.03
+VT7,Speed Boat,0.02,-1,0.06,0.02,0.01,0.02
