@@ -1,0 +1,11 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT3,VT4B,VT4A,CC0D,CC1D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Water_A
+Vehicle Depot,VD1,Vehicle Depot VD1,37,16,,1,0,1,0,0,1,0,1
+Vehicle Depot,VD2,Vehicle Depot VD2,1,48,,0,1,0,0,0,0,1,0
+WareHouse,WH1,WareHouse WH1,31,19,,0,0,0,30,60,1,0,1
+Transhipment Port,TP1,Transhipment Port TP1,22,30,,0,0,0,1,1,0,1,1
+Split Node,NP0,Split Node NP0,50,5,,0,0,0,0,14,1,0,0
+Split Node,NP1,Split Node NP1,55,3,,0,0,0,11,8,1,0,0
+Split Node,NP2,Split Node NP2,4,33,,0,0,0,0,12,0,1,0
+Split Node,NP3,Split Node NP3,15,50,,0,0,0,9,13,0,1,0
+Split Node,NP4,Split Node NP4,4,33,,0,0,0,0,7,0,1,0
+Split Node,NP5,Split Node NP5,15,50,,0,0,0,10,6,0,1,0

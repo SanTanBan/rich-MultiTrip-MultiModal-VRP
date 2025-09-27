@@ -1,0 +1,14 @@
+Vertex Category,Sl. No.,Description,Latitude,Longitude,Remarks/Comments,VT1,VT2,CC1P,CC1D,Multimodal Compatibility for Network_Air,Multimodal Compatibility for Network_Road
+Vehicle Depot,VD1,Vehicle Depot VD1,10,4,Accessibility for depots is defined according to vehicles available.,2,0,0,0,0,1
+Vehicle Depot,VD2,Vehicle Depot VD2,49,35,Accessibility for depots is defined according to vehicles available.,0,2,0,0,1,0
+WareHouse,WH1,WareHouse WH1,19,5,,0,0,0,22,0,1
+Simultaneous Node,NM1,Simultaneous Node NM1,17,16,,0,0,5,5,0,1
+Simultaneous Node,NM2,Simultaneous Node NM2,53,45,,0,0,5,5,0,1
+Simultaneous Node,NM3,Simultaneous Node NM3,25,15,,0,0,3,4,0,1
+Simultaneous Node,NM4,Simultaneous Node NM4,50,50,,0,0,2,3,0,1
+Transhipment Port,TP1,Transhipment Port TP1,30,33,,0,0,1,1,1,1
+Split Node,NP1,Split Node NP1,39,48,,0,0,5,0,1,0
+Split Node,NP2,Split Node NP2,27.5,10,,0,0,5,0,1,0
+Split Node,NP3,Split Node NP3,20,10,,0,0,4,3,1,0
+Split Node,NP4,Split Node NP4,40,40,,0,0,3,2,1,0
+Relief Centre,RC1,Relief Centre RC1,5,21,,0,0,32,0,0,1

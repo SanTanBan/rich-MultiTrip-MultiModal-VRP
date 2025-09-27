@@ -1,0 +1,4 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments,StartingTime from Depot
+VT3,Speed Boat,2000,50,Water_A,0,0.85,,0
+VT4B,Maruti Chota Haati,3000,60,Road_B,1,1.7,,0
+VT4A,Maruti Chota Haati,3000,60,Road_A,1,1.7,,0

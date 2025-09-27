@@ -1,0 +1,15 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT2,VT3,VT4,VT5,CC1P,CC1D,CC2D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Road_C
+Vehicle Depot,VD1,Vehicle Depot VD1,12,0,,0,0,1,0,0,0,0,0,0,1,0
+Vehicle Depot,VD2,Vehicle Depot VD2,45,18,,0,0,0,1,0,0,0,0,0,0,1
+Vehicle Depot,VD3,Vehicle Depot VD3,25,21,,2,0,0,0,0,0,0,0,1,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,25,43,,0,2,0,0,0,0,0,1,0,0,0
+WareHouse,WH1,WareHouse WH1,0,17,,0,0,0,0,0,10,11,0,0,1,0
+WareHouse,WH2,WareHouse WH2,50,3,,0,0,0,0,0,11,12,0,0,0,1
+Simultaneous Node,NM1,Simultaneous Node NM1,7,36,,0,0,0,0,0,9,8,1,0,0,0
+Simultaneous Node,NM2,Simultaneous Node NM2,42,39,,0,0,0,0,20,3,2,1,0,0,0
+Transhipment Port,TP1,Transhipment Port TP1,10,25,,0,0,0,0,0,1,1,0,1,1,0
+Transhipment Port,TP2,Transhipment Port TP2,34,20,,0,0,0,0,0,1,1,0,1,0,1
+Transhipment Port,TP3,Transhipment Port TP3,26,30,,0,0,0,0,0,1,1,1,1,0,0
+Split Node,NP1,Split Node NP1,5,35,,0,0,0,0,25,5,6,1,0,0,0
+Split Node,NP2,Split Node NP2,40,38,,0,0,0,0,0,4,7,1,0,0,0
+Relief Centre,RC1,Relief Centre RC1,23.5,37,,0,0,0,0,50,0,0,1,0,0,0

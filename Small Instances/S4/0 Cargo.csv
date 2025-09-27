@@ -1,0 +1,3 @@
+Pickup / Delivery,Types,Description,Unit Weight,Unit Volume,Remarks/Comments
+Delivery,CC1D,Food Packets (100 pieces = 1 unit),80,0.25,
+Delivery,CC0D,Vaccine,3,0.03,
