@@ -1,0 +1,15 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT2A,VT2B,VT3,VT4B,VT4C,CC1D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Road_C,Multimodal Compatibility for Network_Air_B
+Vehicle Depot,VD1,Vehicle Depot VD1,1.714285714,0,,0,0,0,1,0,0,0,0,1,0,0
+Vehicle Depot,VD2,Vehicle Depot VD2,6.428571429,2.571428571,,0,0,0,0,1,0,0,0,0,1,0
+Vehicle Depot,VD3,Vehicle Depot VD3,3.571428571,3,,2,0,0,0,0,0,0,1,0,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,3.571428571,6.142857143,,0,0,2,0,0,0,1,0,0,0,0
+Vehicle Depot,VD5,Vehicle Depot VD5,8,4,,0,1,0,0,0,0,0,0,0,0,1
+WareHouse,WH1,WareHouse WH1,0,2.428571429,,0,0,0,0,0,50,0,0,1,0,0
+WareHouse,WH2,WareHouse WH2,6.428571429,0.428571429,,0,0,0,0,0,50,0,0,0,1,0
+Transhipment Port,TP1,Transhipment Port TP1,2.428571429,2.714285714,,0,0,0,0,0,1,0,1,1,0,0
+Transhipment Port,TP2,Transhipment Port TP2,4.857142857,2.857142857,,0,0,0,0,0,1,0,1,0,1,0
+Transhipment Port,TP3,Transhipment Port TP3,3.714285714,4.285714286,,0,0,0,0,0,1,1,1,0,0,0
+Transhipment Port,TP4,Transhipment Port TP4,7,3,,0,0,0,0,0,1,0,0,0,1,1
+Transhipment Port,TP5,Transhipment Port TP5,7.285714286,4.571428571,,0,0,0,0,0,1,1,0,0,0,1
+Split Node,NP1,Split Node NP1,0.714285714,5,,0,0,0,0,0,25,1,0,0,0,0
+Split Node,NP2,Split Node NP2,5.714285714,5.428571429,,0,0,0,0,0,25,1,0,0,0,0

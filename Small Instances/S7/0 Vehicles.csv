@@ -1,0 +1,6 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments,StartingTime from Depot
+VT2A,Helicopter,550,225,Air_A,0,4,,0.375
+VT2B,eVTOL,450,175,Air_B,1,4.25,,0.375
+VT3,NDRF Bus,5000,100,Road_A,1,1.125,,1
+VT4B,Maruti Chota Haati,3000,60,Road_B,0,1,,0
+VT4C,Maruti Chota Haati,3000,60,Road_C,1,1,,0

@@ -1,0 +1,16 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT3,VT4B,VT4A,CC1P,CC1D,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Road_B,Multimodal Compatibility for Network_Water_A
+Vehicle Depot,VD1,Vehicle Depot VD1,37,16,,2,0,2,0,0,1,0,1
+Vehicle Depot,VD2,Vehicle Depot VD2,1,48,,0,2,0,0,0,0,1,0
+WareHouse,WH1,WareHouse WH1,31,19,,0,0,0,0,30,1,0,1
+Transhipment Port,TP1,Transhipment Port TP1,22,30,,0,0,0,1,1,0,1,1
+Transhipment Port,TP2,Transhipment Port TP2,30.5,17.5,,0,0,0,1,1,1,0,1
+Split Node,NP1,Split Node NP1,55,3,,0,0,0,0,7,1,0,0
+Split Node,NP2,Split Node NP2,4,33,,0,0,0,0,8,0,1,0
+Split Node,NP3,Split Node NP3,20,48,,0,0,0,9,0,0,1,0
+Split Node,NP4,Split Node NP4,30,3,,0,0,0,10,0,1,0,0
+Split Node,NP5,Split Node NP5,43,11,,0,0,0,0,5,1,0,0
+Relief Centre,RC1,Relief Centre RC1,31,19,,0,0,0,30,0,0,1,1
+Simultaneous Node,NM1,Simultaneous Node NM1,55.5,3.5,,0,0,0,4,1,1,0,0
+Simultaneous Node,NM2,Simultaneous Node NM2,4.5,33.5,,0,0,0,3,2,0,1,0
+Simultaneous Node,NM3,Simultaneous Node NM3,20.5,48.5,,0,0,0,1,4,0,1,0
+Simultaneous Node,NM4,Simultaneous Node NM4,30.5,3.5,,0,0,0,2,3,1,0,0
