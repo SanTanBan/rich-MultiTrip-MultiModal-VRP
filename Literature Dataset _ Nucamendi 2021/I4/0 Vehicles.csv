@@ -1,0 +1,9 @@
+Vehicle Type,Description,ContractingCosts made equivalent to startingTime fromDepot,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Remarks/Comments,Average Speed of Vehicle
+VT1,Vehicle Type 1,8,40,40,Road,0,,1
+VT2,Vehicle Type 2,9,45,45,Road,0,,1
+VT3,Vehicle Type 3,10,50,50,Road,0,,1
+VT4,Vehicle Type 4,11,55,55,Road,0,,1
+VT5,Vehicle Type 5,12,60,60,Road,0,,1
+VT6,Vehicle Type 6,13,65,65,Road,0,,1
+VT7,Vehicle Type 7,14,70,70,Road,0,,1
+VT8,Vehicle Type 8,15,75,75,Road,0,,1

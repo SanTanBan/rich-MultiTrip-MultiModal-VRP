@@ -1,0 +1,28 @@
+Vertex Category,Sl. No.,Description,Latitude,Longitude,Remarks/Comments,VT1,VT2,VT3,VT4,VT5,VT6,VT7,VT8,CC1P,Multimodal Compatibility for Network_Road
+Vehicle Depot,VD1, Stoughton - Madison ,42.90959,-89.20563,,0,1,0,0,1,0,0,1,0,1
+Vehicle Depot,VD2, Stevens Point,44.455,-89.497,,0,0,1,0,0,0,0,2,0,1
+Vehicle Depot,VD3, Elgin,42.02182,-88.32232,,1,1,0,1,0,0,0,0,0,1
+Vehicle Depot,VD4, Bridgeview ,41.70834,-87.79828,,0,2,0,1,0,0,0,0,0,1
+Vehicle Depot,VD5, Louisville ,38.15349,-85.68189,,0,1,1,0,0,1,0,0,0,1
+Vehicle Depot,VD6, Akron - Canton ,40.95986,-81.46269,,1,0,0,0,0,1,0,1,0,1
+Vehicle Depot,VD7,Lexington,38.09182,-84.51974,,0,1,0,0,1,1,0,0,0,1
+Vehicle Depot,VD8,Norcross,33.96039,-84.08368,,1,0,1,0,1,0,0,0,0,1
+Vehicle Depot,VD9, Newman ,33.41514,-84.7418,,0,1,1,0,1,0,0,0,0,1
+Vehicle Depot,VD10, Winston,36.13115,-80.08082,,0,0,0,0,1,1,1,0,0,1
+Vehicle Depot,VD11, Carlstadt,40.83432,-74.05586,,0,2,0,1,0,0,0,0,0,1
+Vehicle Depot,VD12, Hartford,41.57194,-72.77388,,1,0,0,0,0,0,1,1,0,1
+Vehicle Depot,VD13,Worcester ,42.26526,-71.69248,,0,1,0,1,0,0,1,0,0,1
+Simultaneous Node,NM1, Manchester,41.795667,-72.58104,,0,0,0,0,0,0,0,0,10,1
+Simultaneous Node,NM2,Bardstown,37.825464,-85.431051,,0,0,0,0,0,0,0,0,8,1
+Simultaneous Node,NM3, Chicago,42.11129,-88.06075,,0,0,0,0,0,0,0,0,15,1
+Simultaneous Node,NM4, Endeavor,43.708506,-89.470503,,0,0,0,0,0,0,0,0,11,1
+Simultaneous Node,NM5, Hackensack,40.9083,-74.0448,,0,0,0,0,0,0,0,0,13,1
+Simultaneous Node,NM6, Duluth,33.971643,-84.154134,,0,0,0,0,0,0,0,0,9,1
+Simultaneous Node,NM7, Copley,41.10061,-81.652772,,0,0,0,0,0,0,0,0,10,1
+Simultaneous Node,NM8, Boston,42.414253,-71.684454,,0,0,0,0,0,0,0,0,12,1
+Simultaneous Node,NM9, Milwakee,43.116437,-89.660384,,0,0,0,0,0,0,0,0,9,1
+Simultaneous Node,NM10, Asheboro,35.678212,-79.857301,,0,0,0,0,0,0,0,0,14,1
+Simultaneous Node,NM11, Fairburn,33.554384,-84.593951,,0,0,0,0,0,0,0,0,12,1
+Simultaneous Node,NM12, New Berlin,41.794759,-87.75849,,0,0,0,0,0,0,0,0,8,1
+Simultaneous Node,NM13, Washington,38.174316,-84.805903,,0,0,0,0,0,0,0,0,12,1
+Relief Centre,RC1,"Carretera Nuevo, Tamaulipas, Mexico",27.595137,-99.544912,,0,0,0,0,0,0,0,0,143,1
