@@ -1,0 +1,14 @@
+Vertex Category,Sl. No.,Description,Longitude,Latitude,Remarks/Comments,VT2,VT4,VT3A,VT3B,VT1A,VT1B,CC1P,CC2P,Multimodal Compatibility for Network_Road_A,Multimodal Compatibility for Network_Air_A,Multimodal Compatibility for Network_Road_B
+Vehicle Depot,VD1,Vehicle Depot VD1,2,2,,0,0,1,0,1,0,0,0,1,0,0
+Vehicle Depot,VD3,Vehicle Depot VD3,6,19,,1,1,0,0,0,0,0,0,0,1,0
+Vehicle Depot,VD4,Vehicle Depot VD4,10.5,14.5,,0,0,0,1,0,1,0,0,0,0,1
+Simultaneous Node,NM1,Simultaneous Node NM1,0.8,2.6,,0,0,0,0,0,0,1,2,1,0,0
+Simultaneous Node,NM2,Simultaneous Node NM2,7,14,,0,0,0,0,0,0,4,0,0,1,0
+Simultaneous Node,NM3,Simultaneous Node NM3,6.8,14.2,,0,0,0,0,0,0,5,0,0,1,0
+Transhipment Port,TP1,Transhipment Port TP1,2,4,,0,0,0,0,0,0,1,1,1,1,0
+Transhipment Port,TP3,Transhipment Port TP3,8,14.5,,0,0,0,0,0,0,1,1,0,1,1
+Split Node,NP1,Split Node NP1,1.2,3.4,,0,0,0,0,0,0,10,0,1,0,0
+Split Node,NP3,Split Node NP3,6.2,14.8,,0,0,0,0,0,0,12,0,0,1,0
+Split Node,NP6,Split Node NP6,11,14.6,,0,0,0,0,0,0,0,2,0,0,1
+Relief Centre,RC1,Relief Centre RC1,0,2,,0,0,0,0,0,0,30,10,1,0,0
+Relief Centre,RC2,Relief Centre RC2,9,13.5,,0,0,0,0,0,0,10,10,0,0,1

@@ -1,0 +1,17 @@
+Vertex Category,Sl. No.,Description,Latitude,Longitude,Remarks/Comments,VT1,VT2,VT3,CC1P,CC1D,CC2D,Multimodal Compatibility for Network_Air,Multimodal Compatibility for Network_Rail,Multimodal Compatibility for Network_Road
+Vehicle Depot,VD1,Vehicle Depot VD1,0.111111111,0.333333333,Accessibility for depots is defined according to vehicles available.,1,0,0,0,0,0,0,1,0
+Vehicle Depot,VD2,Vehicle Depot VD2,2.444444444,4.111111111,Accessibility for depots is defined according to vehicles available.,0,1,0,0,0,0,1,0,0
+Vehicle Depot,VD3,Vehicle Depot VD3,4.444444444,5,Accessibility for depots is defined according to vehicles available.,0,1,0,0,0,0,1,0,0
+Vehicle Depot,VD4,Vehicle Depot VD4,0,0,Accessibility for depots is defined according to vehicles available.,0,0,2,0,0,0,0,0,1
+WareHouse,WH1,WareHouse WH1,0.111111111,0.111111111,,0,0,0,0,50,0,0,0,1
+WareHouse,WH2,WareHouse WH2,-0.055555556,0.069444444,,0,0,0,0,50,200,0,0,1
+Simultaneous Node,NM3,Simultaneous Node NM3,3.222222222,4.333333333,,0,0,0,0,0,15,1,0,0
+Simultaneous Node,NM4,Simultaneous Node NM4,3.666666667,4.555555556,,0,0,0,0,0,25,1,0,0
+Simultaneous Node,NM16,Simultaneous Node NM16,0.233333333,0.077777778,,0,0,0,65,0,23,0,0,1
+Transhipment Port,TP1,Transhipment Port TP1,0.188888889,0.111111111,,0,0,0,0,1,1,0,1,1
+Transhipment Port,TP2,Transhipment Port TP2,2.777777778,3.333333333,,0,0,0,0,1,1,1,1,0
+Transhipment Port,TP3,Transhipment Port TP3,3.888888889,3.888888889,,0,0,0,0,1,1,1,1,0
+Split Node,NP1,Split Node NP1,3.222222222,4.555555556,,0,0,0,0,0,77,1,0,0
+Split Node,NP2,Split Node NP2,4.111111111,4.555555556,,0,0,0,0,0,41,1,0,0
+Split Node,NP19,Split Node NP19,0.266666667,0.044444444,,0,0,0,15,17,0,0,0,1
+Relief Centre,RC1,Relief Centre RC1,0.166666667,-0.027777778,,0,0,0,100,0,0,0,0,1

@@ -1,0 +1,7 @@
+Vehicle Type,Description,Weight Capacity,Volume Capacity,Vehicle Network Compatibility,Must vehicles of this type finally return to their respective starting depots?,Average Speed of Vehicle,Remarks/Comments,StartingTime from Depot
+VT2,Helicopter (or Drone),450,150,Air_A,1,7,,0.5
+VT4,CargoCopter,800,100,Air_A,1,7.75,,0.5
+VT3A,NDRF Bus,4500,100,Road_A,1,1.75,,0
+VT3B,NDRF Bus,4500,100,Road_B,1,1.75,,0
+VT1A,Matador,2000,80,Road_A,0,1.7,,0
+VT1B,Matador,2000,80,Road_B,0,1.7,,0
