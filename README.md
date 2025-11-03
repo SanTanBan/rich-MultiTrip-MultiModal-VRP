@@ -6,3 +6,6 @@
 - For the first time, the synchronization of transhipment across multiple modes is considered
 
 ### Subsequently, after acceptance of the paper, the codes will be released by making this connected private repository public: https://github.com/SanTanBan/Cascaded_richVRP_with_WaitingTimes_at_TPs
+
+### The QGIS-Plugin code is available: https://github.com/sid0dodo1/NDMVRP-plugin
+The preprint DOI of the plugin will be updated here soon.
