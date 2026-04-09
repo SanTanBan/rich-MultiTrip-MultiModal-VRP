@@ -1,5 +1,7 @@
 ### This Repository is for hosting the Computational Datasets. Please refer to the pre-print DOI: https://arxiv.org/abs/2509.13227
 
+### Most of the Computational Results are available here: https://doi.org/10.34740/kaggle/dsv/15619388
+
 ### Prominent Problem Features:~
 - Minimization of the Maximum Vehicle's Route Duration is considered
 - Multiple diverse types of functional vertices enrich the problem further
